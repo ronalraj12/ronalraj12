@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rajronal018@gmail.com**
 
-- 📄 Know about my experiences [https://ronal-resume.tiiny.site/](https://ronal-resume.tiiny.site/)
+- 📄 Know about my experiences [https://ronal-resume.web.app/](https://ronal-resume.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
