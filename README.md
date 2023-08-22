@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **aws,kubenetes,azure,docker,ci/cd**
 
-- 📫 How to reach me **rajronal018@gmailcom**
+- 📫 How to reach me **rajronal018@gmail.com**
 
 - 📄 Know about my experiences [https://ronal-resume.tiiny.site/](https://ronal-resume.tiiny.site/)
 
