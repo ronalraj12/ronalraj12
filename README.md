@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Cloud Tools](https://github.com/RajRonal/ECS_React_Github_Action)
 
-- 👨‍💻 All of my projects are available at [https://rajronal.web.app/](https://rajronal.web.app/)
+
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/ronalraj/articles](https://auth.geeksforgeeks.org/user/ronalraj/articles)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rajronal018@gmail.com**
 
-- 📄 Know about my experiences [https://ronal-resume.web.app/](https://ronal-resume.web.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
